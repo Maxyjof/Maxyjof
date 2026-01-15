@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Maxyjof
-- 👀 I’m interested in making games by C# or Cpp
-- 🌱 noob
-- 💞️ noob
-- 📫 3478124403@qq.com
+- 👀 I’m interested in making games by Unity C#
+- 📫 maxyjof0102@gmail.com
